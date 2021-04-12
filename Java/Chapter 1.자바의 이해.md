@@ -39,7 +39,7 @@
 
 # JVM(Java Virtual Machine)
 
-![](C:\Users\Administrator\Desktop\3.job\Study\Java\img\Java active process.png)
+![](.\img\chapter 1\Java active process.png)
 
 <자바 애플리케이션 실행 방식>
 
