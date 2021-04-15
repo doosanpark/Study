@@ -4,7 +4,7 @@
 
 # 1.1 운영체제의 역할
 
-![](C:\Users\Administrator\Desktop\3.job\Study\OS\Export-952d051e-8f46-4092-910f-687dc8be1d09\Section 1 운영체제의 개념\OS role.png)
+![Section%201%20%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%B4%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%207e6df428c1f240698a6298d9341cfa82/Untitled.png](./Section 1 운영체제의 개념/Untitled.png)
 
 **컴퓨터 시스템의 구성요소**: 사용자, 소프트웨어, 하드웨어
 
@@ -53,7 +53,7 @@ OS는 프로그램을 실행하는 데 필요한 환경과 자원을 제공하�
 
 제한된 자원을 효율적으로 사용하기 위한 이용율 증가와 오버헤드 최소화 그리고 각각의 응용 프로그램이 서로의 수행 역할을 보호해야 함
 
-![](C:\Users\Administrator\Desktop\3.job\Study\OS\Export-952d051e-8f46-4092-910f-687dc8be1d09\Section 1 운영체제의 개념\managing resource.png)
+![Section%201%20%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%B4%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%207e6df428c1f240698a6298d9341cfa82/Untitled%201.png](./Section 1 운영체제의 개념/Untitled%201.png)
 
 ### 프로세스 관리
 
@@ -132,7 +132,7 @@ OS는 메모리, 파일 프로세서 등 자원은 OS가 적절한 권한을 부
 
 운영체제는  '1. 사용자 편리성 제공', '2. 자원관리 및 오류제어', '3. 시스템 성능 향상'이라는 세 가지 주요 목적을 위해 발전해왔다. 그러다보니 항상 시스템 확장성을 고려하여 발전하는 경향을 보인다.
 
-![](C:\Users\Administrator\Desktop\3.job\Study\OS\Export-952d051e-8f46-4092-910f-687dc8be1d09\Section 1 운영체제의 개념\purpose.png)
+![Section%201%20%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%B4%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%207e6df428c1f240698a6298d9341cfa82/Untitled%202.png](./Section 1 운영체제의 개념/Untitled%202.png)
 
 ### 사용자에게 편리한 환경 제공
 
