@@ -10,9 +10,11 @@ Object 객체는 객체의 가장 기본적인 형태를 가지고 있는 객체
 
 # Object 객체 사용법
 
-![Object%20ef312c3e8c71486ea12f8c321ef182ac/Untitled.png](C:\Users\Administrator\Desktop\3.job\Study\Java Script\Java Script\Object/Untitled.png)
+![Object%20ef312c3e8c71486ea12f8c321ef182ac/Untitled.png](.\Object/Untitled.png)
 
-![Object%20ef312c3e8c71486ea12f8c321ef182ac/Untitled%201.png](C:\Users\Administrator\Desktop\3.job\Study\Java Script\Java Script\Object/Untitled%201.png)
+![Object%20ef312c3e8c71486ea12f8c321ef182ac/Untitled%201.png](.\Object/Untitled%201.png)
+
+
 
 # Object 확장
 

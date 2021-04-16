@@ -12,7 +12,7 @@
 
 대표적 언어 Node.js
 
-![Orientation%208a061cc244f9414488809990b5762d40/Untitled.png](C:\Users\Administrator\Desktop\3.job\Study\Java Script\Java Script\Orientation/Untitled.png)
+![Orientation%208a061cc244f9414488809990b5762d40/Untitled.png](.\Orientation/Untitled.png)
 
 웹서버에서 대표적으로 사용되는 언어 - PHP, Java, Python, Ruby 등
 
@@ -38,7 +38,7 @@
 
 # Java Script 사용 환경
 
-![Orientation%208a061cc244f9414488809990b5762d40/Untitled%201.png](C:\Users\Administrator\Desktop\3.job\Study\Java Script\Java Script\Orientation/Untitled%201.png)
+![Orientation%208a061cc244f9414488809990b5762d40/Untitled%201.png](.\Orientation/Untitled%201.png)
 
 프로그래밍 언어란 컴퓨터와 사람 사이에 언어로 소통하는 것이며 일종의 규칙과 약속으로 이뤄져있다.
 
