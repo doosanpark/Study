@@ -6,7 +6,7 @@
 
 [문자의 표현](C:\Users\Administrator\Desktop\3.job\Study\Java Script\Java Script\문자의 표현.md)
 
-[변수의 선언](C:\Users\Administrator\Desktop\3.job\Study\Java Script\Java Script\변수의 선언.md)
+[변수의 선언](C:\Users\Administrator\Desktop\3.job\Study\Java Script\Java Script\변수의 선언.md) 
 
 [비교](C:\Users\Administrator\Desktop\3.job\Study\Java Script\Java Script\비교.md)
 
