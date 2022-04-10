@@ -60,7 +60,7 @@ GET /api/v1/shortUrl  - 반환:HTTP 리디렉션 목적지가 될 원래 URL
 
 ## URL 리디렉션
 
-![Untitled](8%E1%84%8C%E1%85%A1%E1%86%BC%20URL%20%E1%84%83%2094967/Untitled.png)
+![Untitled](8장 URL 단축기 설계/Untitled.png)
 
 ### 리디렉션 두가지 응답 - 301, 302
 
